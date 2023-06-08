@@ -37,7 +37,7 @@ class SystemSettings extends Component {
           <Table striped className='p-4'>
             <thead>
               <tr>
-                <th>Name</th>
+                <th>Name 1</th>
                 <th>Age</th>
                 <th>Gender</th>
               </tr>

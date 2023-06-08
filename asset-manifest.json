@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xinyun0817/yo.git/static/css/main.30ea52ad.css",
+    "main.js": "/xinyun0817/yo.git/static/js/main.453c9e6c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/xinyun0817/yo.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/xinyun0817/yo.git/index.html",
+    "main.30ea52ad.css.map": "/xinyun0817/yo.git/static/css/main.30ea52ad.css.map",
+    "main.453c9e6c.js.map": "/xinyun0817/yo.git/static/js/main.453c9e6c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/xinyun0817/yo.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.453c9e6c.js"
+  ]
+}
